@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "426520843953",
+    "firebase_url": "https://dndplus-53ada.firebaseio.com",
+    "project_id": "dndplus-53ada",
+    "storage_bucket": "dndplus-53ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426520843953:android:232be7b10d22d2ca",
+        "android_client_info": {
+          "package_name": "com.example.dnd.dndplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426520843953-loub7p8872mbaj9jcp45dvo7onicjlo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dnd.dndplus",
+            "certificate_hash": "d3a2f54be85c54c1976ef0a6e3badb75d8465180"
+          }
+        },
+        {
+          "client_id": "426520843953-kt40colii0ptqqruutbsgpo1df552393.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDee8mca0CBFs-5VnuY7XsZeVwIUqclrno"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426520843953-kt40colii0ptqqruutbsgpo1df552393.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
